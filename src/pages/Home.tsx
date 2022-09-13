@@ -1,5 +1,7 @@
+import { ReactComponent as Logo } from './circle.svg'
+
 function Home() {
-  return <h1>Hello World</h1>;
+  return <h1>Hello World<Logo/></h1>;
 }
 
 export default Home;
