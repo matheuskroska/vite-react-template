@@ -8,8 +8,6 @@ This setup includes:
 - [storybook](https://www.npmjs.com/package/@storybook/builder-vite#getting-started-with-vite-and-storybook-on-a-new-project)
 - [react-router v6](https://reactrouter.com/en/main)
 - [vite-plugin-svgr](https://www.npmjs.com/package/vite-plugin-svgr)
-- [stitches](https://stitches.dev/)
-- [raddix-colors](https://www.radix-ui.com/colors)
 
 ## References
 
